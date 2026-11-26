@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.sqlite*
+*.log
+*.bak*
+auth.json
+config.toml
+doctor-*.txt
+restart-result.json
+process-proxy-env.json
